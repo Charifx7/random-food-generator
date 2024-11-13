@@ -1,11 +1,9 @@
 <script setup>
-
+import GeneratorPage from './components/GeneratorPage.vue'
 </script>
 
-
-
-
 <template>
-    <h1></h1>
+  <GeneratorPage/>
+    
 </template>
 
